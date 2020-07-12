@@ -8,7 +8,7 @@ Clone it by
 ```bash
 git clone https://github.com/anubhavanonymous/MailBlast
 ```
-Now,Navigate to MailBlast Directory
+Now, Navigate to MailBlast Directory
 ```bash
 cd MailBlast
 ```
@@ -20,4 +20,4 @@ python2 main.py
 ## Note
 You need to enable less secure apps on Gmail and Yahoo
 
-Enjoy🌸
+Enjoy !!🌸
